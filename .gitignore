@@ -1,0 +1,6 @@
+# Резервные копии и служебные файлы — на сайт не нужны
+_backup/
+.claude/
+node_modules/
+.DS_Store
+Thumbs.db
